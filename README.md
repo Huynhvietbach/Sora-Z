@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Huynh Viet Bach and I'm a seller, from Vietnam ![Uploading LáCờTổQuốcViệtNamGIF.gif…]()
- </h2>
+<h2 align="left">Hi 👋! My name is Huynh Viet Bach and I'm a seller, from Vietnam 🇻🇳 </h2>
 
 ###
 
